@@ -1,19 +1,28 @@
-### Hi there 👋I'm Ersel Gemici
+# Merhaba, ben Ersel
 
-<!--
-**erselgemici/erselgemici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer'ım. 3 yıldır C# ve .NET ile backend geliştiriyorum, arayüz tarafında Angular ve React kullanıyorum.
+Matematik okudum; Clean Architecture, CQRS ve okunur kod en çok ilgimi çeken konular.
 
-Here are some ideas to get you started:
+*Full Stack Developer from Istanbul, working with C#/.NET, Angular and React.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C# && .NET Core
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: erselgemici.eg@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-Connect with me:
-https://www.linkedin.com/in/ersel-gemici/
+### Teknolojiler
 
--->
+**Backend:** C#, .NET, ASP.NET Core, Entity Framework Core, Dapper, MediatR
+**Frontend:** Angular, React, TypeScript, JavaScript
+**Veritabanı:** SQL Server, PostgreSQL, MongoDB
+**Diğer:** Docker, Git, ML.NET, OpenAI / Gemini API
+
+### Öne çıkan projeler
+
+| Proje | Ne yapıyor |
+|---|---|
+| [DevLog](https://github.com/erselgemici/DevLog) | .NET 9 Minimal API + Angular 20, Onion Architecture, CQRS |
+| [Bagery](https://github.com/erselgemici/Bagery) | Clean Architecture, saf CQRS, Chain of Responsibility |
+| [Bepop](https://github.com/erselgemici/Bepop) | JWT ile ayrık mimari, ML.NET öneri motoru |
+| [LifeSure](https://github.com/erselgemici/LifeSure) | ChatGPT, ML.NET, Elasticsearch + Kibana |
+| [Medinova](https://github.com/erselgemici/Medinova) | Gemini ile semptom analizi, ML.NET tahmin |
+| 101 Çetele | Google Play'de yayında olan React Native uygulamam |
+
+### İletişim
+
+[LinkedIn](https://www.linkedin.com/in/ersel-gemici) · erselgemici.eg@gmail.com
